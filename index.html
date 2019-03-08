@@ -1,0 +1,42 @@
+<html>
+<head>
+  <title>2016 Presidential Election</title>
+  <!-- FRAMEWORK -->
+  <script src="./resources/angularjs/angular.min.js"></script>
+  <!-- LEAFLET -->
+  <link rel="stylesheet" href="./resources/leaflet/leaflet.css"/>
+  <script src="./resources/leaflet/leaflet.js"></script>
+  <!-- DRIVER -->
+  <link rel="stylesheet" href="./resources/driver/driver.min.css">
+  <script src="./resources/driver/driver.min.js"></script>
+  <!-- CUSTOM STYLE -->
+  <link rel="stylesheet" href="./resources/css/main.css"/>
+
+</head>
+<body>
+  <div ng-app="leafletMapApp"
+       id="map">
+    <div ng-controller="leafletMapController" class="ng-cloak">
+      <div class="results-container">
+        <div class="results" id="product-tour-results">
+          <img ng-if="selectedState.value !== 'usStates'"
+            ng-src="./resources/img/{{selectedState.winner}}.jpg" 
+            alt="{{selectedState.winner}}">
+          {{result}}
+        </div>
+      </div>
+      
+      <div class="states-controls"
+        id="product-tour-states-controls">
+        <select class="custom-dropdown"
+                ng-options="state as state.display for state in states" 
+                ng-model="selectedState" 
+                ng-change="updateState()">
+          <option value="" selected disabled hidden>Choose a State</option>
+        </select>
+      </div>
+    </div>
+  </div>
+  <script src="./resources/main.js"></script>
+</body>
+</html>

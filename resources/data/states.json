@@ -1,0 +1,252 @@
+[
+  {
+    "State": "Alabama",
+    "per_dem": 0.34,
+    "per_gop": 0.62
+  },
+  {
+    "State": "Alaska",
+    "per_dem": 0.37,
+    "per_gop": 0.51
+  },
+  {
+    "State": "Arizona",
+    "per_dem": 0.45,
+    "per_gop": 0.48
+  },
+  {
+    "State": "Arkansas",
+    "per_dem": 0.34,
+    "per_gop": 0.61
+  },
+  {
+    "State": "California",
+    "per_dem": 0.62,
+    "per_gop": 0.32
+  },
+  {
+    "State": "Colorado",
+    "per_dem": 0.48,
+    "per_gop": 0.43
+  },
+  {
+    "State": "Connecticut",
+    "per_dem": 0.55,
+    "per_gop": 0.41
+  },
+  {
+    "State": "Delaware",
+    "per_dem": 0.53,
+    "per_gop": 0.42
+  },
+  {
+    "State": "Florida",
+    "per_dem": 0.47,
+    "per_gop": 0.49
+  },
+  {
+    "State": "Georgia",
+    "per_dem": 0.45,
+    "per_gop": 0.5
+  },
+  {
+    "State": "Hawaii",
+    "per_dem": 0.62,
+    "per_gop": 0.3
+  },
+  {
+    "State": "Idaho",
+    "per_dem": 0.28,
+    "per_gop": 0.59
+  },
+  {
+    "State": "Illinois",
+    "per_dem": 0.55,
+    "per_gop": 0.38
+  },
+  {
+    "State": "Indiana",
+    "per_dem": 0.38,
+    "per_gop": 0.57
+  },
+  {
+    "State": "Iowa",
+    "per_dem": 0.42,
+    "per_gop": 0.51
+  },
+  {
+    "State": "Kansas",
+    "per_dem": 0.36,
+    "per_gop": 0.56
+  },
+  {
+    "State": "Kentucky",
+    "per_dem": 0.33,
+    "per_gop": 0.63
+  },
+  {
+    "State": "Louisiana",
+    "per_dem": 0.38,
+    "per_gop": 0.58
+  },
+  {
+    "State": "Maine",
+    "per_dem": 0.6,
+    "per_gop": 0.33
+  },
+  {
+    "State": "Maryland",
+    "per_dem": 0.6,
+    "per_gop": 0.34
+  },
+  {
+    "State": "Massachusetts",
+    "per_dem": 0.48,
+    "per_gop": 0.45
+  },
+  {
+    "State": "Michigan",
+    "per_dem": 0.47,
+    "per_gop": 0.47
+  },
+  {
+    "State": "Minnesota",
+    "per_dem": 0.46,
+    "per_gop": 0.45
+  },
+  {
+    "State": "Mississippi",
+    "per_dem": 0.4,
+    "per_gop": 0.58
+  },
+  {
+    "State": "Missouri",
+    "per_dem": 0.38,
+    "per_gop": 0.56
+  },
+  {
+    "State": "Montana",
+    "per_dem": 0.35,
+    "per_gop": 0.56
+  },
+  {
+    "State": "Nebraska",
+    "per_dem": 0.46,
+    "per_gop": 0.5
+  },
+  {
+    "State": "Nevada",
+    "per_dem": 0.27,
+    "per_gop": 0.63
+  },
+  {
+    "State": "New Hampshire",
+    "per_dem": 0.47,
+    "per_gop": 0.47
+  },
+  {
+    "State": "New Jersey",
+    "per_dem": 0.55,
+    "per_gop": 0.41
+  },
+  {
+    "State": "New Mexico",
+    "per_dem": 0.48,
+    "per_gop": 0.4
+  },
+  {
+    "State": "New York",
+    "per_dem": 0.59,
+    "per_gop": 0.37
+  },
+  {
+    "State": "North Carolina",
+    "per_dem": 0.34,
+    "per_gop": 0.59
+  },
+  {
+    "State": "North Dakota",
+    "per_dem": 0.48,
+    "per_gop": 0.46
+  },
+  {
+    "State": "Ohio",
+    "per_dem": 0.43,
+    "per_gop": 0.51
+  },
+  {
+    "State": "Oklahoma",
+    "per_dem": 0.29,
+    "per_gop": 0.65
+  },
+  {
+    "State": "Oregon",
+    "per_dem": 0.5,
+    "per_gop": 0.39
+  },
+  {
+    "State": "Pennsylvania",
+    "per_dem": 0.48,
+    "per_gop": 0.48
+  },
+  {
+    "State": "Rhode Island",
+    "per_dem": 0.54,
+    "per_gop": 0.39
+  },
+  {
+    "State": "South Carolina",
+    "per_dem": 0.41,
+    "per_gop": 0.55
+  },
+  {
+    "State": "South Dakota",
+    "per_dem": 0.32,
+    "per_gop": 0.62
+  },
+  {
+    "State": "Tennessee",
+    "per_dem": 0.35,
+    "per_gop": 0.61
+  },
+  {
+    "State": "Texas",
+    "per_dem": 0.43,
+    "per_gop": 0.52
+  },
+  {
+    "State": "Utah",
+    "per_dem": 0.27,
+    "per_gop": 0.45
+  },
+  {
+    "State": "Vermont",
+    "per_dem": 0.5,
+    "per_gop": 0.44
+  },
+  {
+    "State": "Virginia",
+    "per_dem": 0.57,
+    "per_gop": 0.3
+  },
+  {
+    "State": "Washington",
+    "per_dem": 0.26,
+    "per_gop": 0.68
+  },
+  {
+    "State": "West Virginia",
+    "per_dem": 0.53,
+    "per_gop": 0.37
+  },
+  {
+    "State": "Wisconsin",
+    "per_dem": 0.47,
+    "per_gop": 0.47
+  },
+  {
+    "State": "Wyoming",
+    "per_dem": 0.22,
+    "per_gop": 0.68
+  }
+]

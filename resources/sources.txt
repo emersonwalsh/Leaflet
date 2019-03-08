@@ -1,0 +1,5 @@
+County Level Data:
+https://github.com/tonmcg/US_County_Level_Election_Results_08-16
+
+State Info:
+https://www.politico.com/mapdata-2016/2016-election/results/map/president/
