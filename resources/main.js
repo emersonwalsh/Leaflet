@@ -491,7 +491,7 @@ angular.module('leafletMapApp', [])
         satellite,
         streets,
         mapboxAccessToken = 'pk.eyJ1IjoiY3N0cmVldCIsImEiOiJjaXkxc3JlYTcwMGRtMnFwaWNpMGFpeG9jIn0.E6AfqMcvQBO_-G9eDRHZdw',
-        mapboxAttribution = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>, Imagery &copy; <a href="http://mapbox.com">Mapbox</a>';
+        mapboxAttribution = '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a>, &copy; <a href="http://mapbox.com">Mapbox</a>';
 
       satellite = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
         attribution: '&copy; <a href="http://www.esri.com/">Esri</a>'
@@ -760,6 +760,12 @@ angular.module('leafletMapApp', [])
                       getGeoJson();
                     }   
                 }
+              } else {
+                $scope.selectedState = {
+                  'display': 'All States',
+                  'value': 'usStates'
+                };
+                getGeoJson();
               }
             }
           });
