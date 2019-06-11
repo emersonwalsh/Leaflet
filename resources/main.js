@@ -16,14 +16,14 @@ angular.module('leafletMapApp', [])
         'winner': 'Trump',
         'percentage': '62.9'
       },
-      {
-        'display': 'Alaska',
-        'value': 'states/alaska',
-        'abbreviation': 'AK',
-        'electoralVotes': '3',
-        'winner': 'Trump',
-        'percentage': '52.9'
-      },
+      // {
+      //   'display': 'Alaska',
+      //   'value': 'states/alaska',
+      //   'abbreviation': 'AK',
+      //   'electoralVotes': '3',
+      //   'winner': 'Trump',
+      //   'percentage': '52.9'
+      // },
       {
         'display': 'Arizona',
         'value': 'states/arizona',
