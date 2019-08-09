@@ -419,6 +419,7 @@ angular.module('leafletMapApp', [])
     $scope.updateState = function() {
       getGeoJson();
     };
+    $scope.startProductTour = startProductTour;
 
     // Global Variables
     var leafletMap,
