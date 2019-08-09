@@ -18,7 +18,8 @@
   <div ng-app="leafletMapApp"
        id="map">
     <div ng-controller="leafletMapController" class="ng-cloak">
-      <div class="results-container">
+      <div class="results-container"
+           ng-click="startProductTour();">
         <div class="results" id="product-tour-results">
           <img ng-if="selectedState.value !== 'usStates'"
             ng-src="./resources/img/{{selectedState.winner}}.jpg" 
