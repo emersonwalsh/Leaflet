@@ -464,16 +464,16 @@ angular.module('leafletMapApp', [])
           element: '#product-tour-results',
           popover: {
             title: 'Welcome!',
-            description: 'Explore the results of the 2016 Presidential Election!'
-          }
-        },
-        {
-          element: '#product-tour-states-controls',
-          popover: {
-            title: 'Select a State',
-            description: 'Drill down to county-level results by selecting a state here or clicking on a state!'
+            description: 'Explore the results of the 2016 Presidential Election! Click on a state to drill down to county-level.'
           }
         }
+//         {
+//           element: '#product-tour-states-controls',
+//           popover: {
+//             title: 'Select a State',
+//             description: 'Drill down to county-level results by selecting a state here or clicking on a state!'
+//           }
+//         }
       ];
 
       driver.defineSteps(steps);
